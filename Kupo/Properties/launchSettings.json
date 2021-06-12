@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Kupo": {
+      "commandName": "Project",
+      "commandLineArgs": "es -export"
+    }
+  }
+}
