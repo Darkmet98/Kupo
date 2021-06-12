@@ -10,7 +10,7 @@ namespace Kupo
         static void Main(string[] args)
         {
             Console.WriteLine(@"Kupo - A simple Kup to Po and Po to Kup converter by Darkmet98. Version: 1.0");
-            Console.WriteLine(@"Thanks to Pleonex for the Yarhl Libraries.");
+            Console.WriteLine(@"Thanks to Pleonex for the Yarhl Libraries and Kuriimu for Kup Format.");
 
             if (args.Length == 0)
                 Info();
